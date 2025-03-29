@@ -9,4 +9,4 @@ $matricula = false;
 
 echo "Bem vindo $aluno";
 
-?>
+
