@@ -83,5 +83,5 @@
     //echo $produtos[2]["nome"];
     foreach ($produtos as $produto){
         echo "<p>O Produto ".$produto['nome']. " do modelo ". $produto['modelo'] . " está custando " .$produto['preco'] . "</p>";    
-    };  
+    };   
 ?>
